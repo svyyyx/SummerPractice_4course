@@ -1,2 +1,1 @@
-# SummerPractice_4course
-Учебная практика студента Б-ИИПМИ Блахирова Тимура
+# FinalnayaRabota
